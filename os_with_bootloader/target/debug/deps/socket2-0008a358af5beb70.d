@@ -1,0 +1,11 @@
+/home/misschiedu/csc308/os_with_bootloader/target/debug/deps/libsocket2-0008a358af5beb70.rmeta: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockaddr.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/socket.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockref.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sys/unix.rs
+
+/home/misschiedu/csc308/os_with_bootloader/target/debug/deps/libsocket2-0008a358af5beb70.rlib: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockaddr.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/socket.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockref.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sys/unix.rs
+
+/home/misschiedu/csc308/os_with_bootloader/target/debug/deps/socket2-0008a358af5beb70.d: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockaddr.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/socket.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockref.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sys/unix.rs
+
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/lib.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockaddr.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/socket.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sockref.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.4.10/src/sys/unix.rs:

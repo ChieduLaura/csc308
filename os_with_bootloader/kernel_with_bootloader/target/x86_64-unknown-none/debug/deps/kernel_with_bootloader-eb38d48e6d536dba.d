@@ -1,0 +1,5 @@
+/home/misschiedu/csc308/os_with_bootloader/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/kernel_with_bootloader-eb38d48e6d536dba: src/main.rs
+
+/home/misschiedu/csc308/os_with_bootloader/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/kernel_with_bootloader-eb38d48e6d536dba.d: src/main.rs
+
+src/main.rs:
