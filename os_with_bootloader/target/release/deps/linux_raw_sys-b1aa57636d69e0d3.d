@@ -1,0 +1,10 @@
+/home/misschiedu/csc308/csc308/os_with_bootloader/target/release/deps/liblinux_raw_sys-b1aa57636d69e0d3.rmeta: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/misschiedu/csc308/csc308/os_with_bootloader/target/release/deps/liblinux_raw_sys-b1aa57636d69e0d3.rlib: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/misschiedu/csc308/csc308/os_with_bootloader/target/release/deps/linux_raw_sys-b1aa57636d69e0d3.d: /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/lib.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/errno.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/general.rs /home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs
+
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/lib.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/errno.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/general.rs:
+/home/misschiedu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/linux-raw-sys-0.3.8/src/x86_64/ioctl.rs:

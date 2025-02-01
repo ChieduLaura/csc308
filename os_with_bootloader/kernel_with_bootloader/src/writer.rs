@@ -61,7 +61,7 @@ impl FrameBufferWriter {
         self.x_pos = BORDER_PADDING;
     }
 
-    /// Erases all text on the screen. Resets self.x_pos and self.y_pos.
+    /// Erases all text on the screen.
     pub fn clear(&mut self) {
         self.x_pos = BORDER_PADDING;
         self.y_pos = BORDER_PADDING;
@@ -113,7 +113,7 @@ impl FrameBufferWriter {
         }
     }
 
-    /// Prints a rendered char into the framebuffer. Updates self.x_pos.
+    /// Prints a rendered char into the framebuffer. 
     fn write_rendered_char(&mut self, rendered_char: RasterizedChar) {
         for (y, row) in rendered_char.raster().iter().enumerate() {
             for (x, &byte) in row.iter().enumerate() {
@@ -173,5 +173,5 @@ impl Write for FrameBufferWriter {
 macro_rules! print {
     ($writer:expr, $($arg:tt)*) => {
         $writer.write_fmt(format_args!($($arg)*)).unwrap();
-    };
+    };
 }
